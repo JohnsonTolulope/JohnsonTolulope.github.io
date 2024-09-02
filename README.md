@@ -29,7 +29,12 @@
 ### Analysis on Bike Sales Stores
 [Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Prepared Analysis on the on customers details including preparation of Dashbord embeded with filters which can gives insight answers to other Questions
+analysis made consist of the following:
+- Average income purchaced based on Gender
+- Numbers of Buyers and Non Buyers
+- customers commute
+- Numbers of Home Owners.
 
 ![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Capture%20bIKE%20SALES.PNG)
 
@@ -37,7 +42,9 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ### Analysis on Car Sales Stores
 [Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed Analysis showing Performance of dealers based on Sales made and count of vechicle sold.
+- Total Sales made for both Years
+- Percentage of sales made for both years  and many more.
 
 ![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Capture%20car%20sales%20Dashboard.PNG)
 
@@ -45,9 +52,22 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ### Analysis on Online Food Store
 [Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Analysis was prepared to give insight on customers details and location with highest numbers of oders made.
+The analysis also includes customers satisfactions on the online food store service performance (S.P).
 
-![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Capture%20car%20sales%20Dashboard.PNG)
+![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/foodstore%20Dashboard.PNG)
+
+
+### Social Buzz Analysis
+[Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Analysis was prepared to give Solutions on how to capitalise on categories with much content
+Analysis  to find Top 5 most popular categories of content
+
+![image](https://github.com/user-attachments/assets/438cc827-92f2-4329-835e-2b7cce037de4)
+
+
+![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/foodstore%20Dashboard.PNG)
 
 
 
