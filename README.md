@@ -36,7 +36,6 @@ analysis made consist of the following:
 - customers commute
 - Numbers of Home Owners.
   ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Capture%20bIKE%20SALES.PNG)
 
 
 
