@@ -27,7 +27,7 @@
 
 ## Projects
 ### Analysis on Bike Sales Stores
-[Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project Overview](https://github.com/JohnsonTolulope/Bike-Sales-Analysis)
 
 Prepared Analysis on the on customers details including preparation of Dashbord embeded with filters which can gives insight answers to other Questions
 analysis made consist of the following:
@@ -35,8 +35,34 @@ analysis made consist of the following:
 - Numbers of Buyers and Non Buyers
 - customers commute
 - Numbers of Home Owners.
-
 ![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Capture%20bIKE%20SALES.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Analysis on Car Sales Stores
