@@ -40,7 +40,7 @@ analysis made consist of the following:
 
 
 ### Analysis on Car Sales Stores
-[Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project Overview](https://github.com/JohnsonTolulope/Car-Sales)
 
 Developed Analysis showing Performance of dealers based on Sales made and count of vechicle sold.
 - Total Sales made for both Years
