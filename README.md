@@ -64,10 +64,10 @@ The analysis also includes customers satisfactions on the online food store serv
 Analysis was prepared to give Solutions on how to capitalise on categories with much content
 Analysis  to find Top 5 most popular categories of content
 
-![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Accentures%20project.PNG)
+![image]()
 
 
-![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Social%20Buzz.PNG)
+![image](SocialBuzz.PNG)
 
 
 
