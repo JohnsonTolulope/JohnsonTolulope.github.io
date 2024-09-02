@@ -35,15 +35,8 @@ analysis made consist of the following:
 - Numbers of Buyers and Non Buyers
 - customers commute
 - Numbers of Home Owners.
-  ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-
-
-
-
-
-
-
+  
+  ![PROJECT DASHBOARD](bikesaleDASH.PNG)
 
 
 
