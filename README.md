@@ -55,14 +55,7 @@ Developed Analysis showing Performance of dealers based on Sales made and count 
 
 Analysis was prepared to give insight on customers details and location with highest numbers of oders made.
 The analysis also includes customers satisfactions on the online food store service performance (S.P).
-![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/foodstore%20Dashboard.PNG)
-
-
-
-
-
-
-
+![Dashboard](foodDashboard.PNG)
 
 
 ### Social Buzz Analysis
