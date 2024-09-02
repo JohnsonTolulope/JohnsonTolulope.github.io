@@ -15,7 +15,7 @@
 - Data cleaning and Data Modeling for Online Food Stores and Care Sales Store
 - Data Analysis  and preparation of Result/presentation for Online food Stores and Car Sales store
 
-**Data Analyst Consultant @ Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
+**Data Analyst Consultant @ Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024**
 
  - Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
@@ -64,7 +64,7 @@ The analysis also includes customers satisfactions on the online food store serv
 Analysis was prepared to give Solutions on how to capitalise on categories with much content
 Analysis  to find Top 5 most popular categories of content
 
-![image]()
+![image](Accenturproject.PNG)
 
 
 ![image](SocialBuzz.PNG)
