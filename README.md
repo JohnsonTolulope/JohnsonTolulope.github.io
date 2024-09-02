@@ -50,7 +50,7 @@ Developed Analysis showing Performance of dealers based on Sales made and count 
 
 
 ### Analysis on Online Food Store
-[Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project Overview](https://github.com/JohnsonTolulope/ONLINE-FOOD-STORE-ANALYSIS)
 
 Analysis was prepared to give insight on customers details and location with highest numbers of oders made.
 The analysis also includes customers satisfactions on the online food store service performance (S.P).
