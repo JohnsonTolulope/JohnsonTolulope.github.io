@@ -64,7 +64,7 @@ The analysis also includes customers satisfactions on the online food store serv
 Analysis was prepared to give Solutions on how to capitalise on categories with much content
 Analysis  to find Top 5 most popular categories of content
 
-![image](https://github.com/user-attachments/assets/438cc827-92f2-4329-835e-2b7cce037de4)
+![image](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Accentures%20project.PNG)
 
 
 ![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/foodstore%20Dashboard.PNG)
