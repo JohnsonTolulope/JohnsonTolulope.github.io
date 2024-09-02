@@ -35,6 +35,7 @@ analysis made consist of the following:
 - Numbers of Buyers and Non Buyers
 - customers commute
 - Numbers of Home Owners.
+  
 ![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Capture%20bIKE%20SALES.PNG)
 
 
