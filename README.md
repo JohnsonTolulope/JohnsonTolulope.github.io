@@ -47,24 +47,6 @@ analysis made consist of the following:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Analysis on Car Sales Stores
 [Project Overview](https://github.com/JohnsonTolulope/Car-Sales)
 
@@ -96,7 +78,7 @@ The analysis also includes customers satisfactions on the online food store serv
 Analysis was prepared to give Solutions on how to capitalise on categories with much content
 Analysis  to find Top 5 most popular categories of content
 
-![image](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Accentures%20project.PNG)
+![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Accentures%20project.PNG)
 
 
 ![Dashboard](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Social%20Buzz.PNG)
