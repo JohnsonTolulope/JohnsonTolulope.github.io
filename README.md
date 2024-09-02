@@ -1,5 +1,5 @@
-# JohnsonTolulope.github.io
-# Data Scientist
+# Johnson Tolulope.github.io
+# Data Analyst
 
 #### Technical Skills: Excel, SQL, PowerBi.
 
@@ -9,13 +9,13 @@
 -  Quantity Surveying | The Federal Polytechnic Ado 
 
 ## Work Experience
-**Data Analysis @ Kinplus Technologies (April 2024 - Present_)**
+**Data Analyst @ Kinplus Technologies (April 2024 - Present_)**
 - Data cleaning and Data Modeling for Bike Stores Data
 - Data Analysis  and preparation of Result/presentation for Bike Stores Data
 - Data cleaning and Data Modeling for Online Food Stores and Care Sales Store
 - Data Analysis  and preparation of Result/presentation for Online food Stores and Car Sales store
 
-**Data Science Consultant @ Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
+**Data Analyst Consultant @ Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
 
  - Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
@@ -27,18 +27,18 @@
 
 ## Projects
 ### Analysis on Bike Sales Stores
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project Overview](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Dashboard](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Project Overview](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Dashboard](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
